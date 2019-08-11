@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
-int main()
+int main1()
 {
 	/*const int i = 0;
 	int *j = (int *)&i;
